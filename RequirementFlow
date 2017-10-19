@@ -1,0 +1,31 @@
+Project B:
+Developing an app which will connect only through inshop/mall/superstores wireless connection to create self served virtual cart and automated bill payment system.
+
+Problem statements:
+1. When customer goes for shopping in big shopping malls/superstores like central/star bazaar/Big Bazaar/Brand Factory/DMart, etc. (In USA Walmart/Safeway/Sams club/Costco/Target/Walgreens/Ross etc) and there is rush user has to wait for longer time in a queue to reach to the counter for billing.
+2. Most of the time this rush is observed during weekends and festive seasons when there are lot of offers, customer needs to stand in a queue for hours which in turn may lose interest  and just walk out without buying anything.
+3. Customers usually who buy very less items tend to not to shop if there are very long queues.
+4. Due to lot of rush there are chances that wrong billing may happen.
+5. There is more anger if any of the machine goes down.
+6. Malls/superstores lose business, customer churn does not happen, the more people stay in a queue the more crowded the shop becomes which also adds to traffic/parking vows.
+
+--------Add more problems which you think are faced by customers and shop owners/staff-----------
+
+Proposed app:
+Buyer facing interface:
+1. We should come up with an universal app by tieing up with different entities or point of sell which will give access to our app to their billing system. So we have only one app on customers mobile which can be used at various outlets be it walmart, target, macys, costco, sams club, safeway, etc Users will not install apps of various outlets as its cumbersome to handle those many apps and eventually becomes confusing as each of them will have their own way of handling things.
+2. By our app we can give seamless shopping and billing experience across all outlets which will work as follows.
+3. Each point of sell should have their wireless connection covering complete one particular store and should be identified by unique wireless connection. For eg. Walmart WiFi connection identifier is xyz, then Target WiFi connection identifier should be pqr, same way for Macys, Costco and all or on mobile internet user scans a tag while entering the store so as to connect to the billing system of the store.
+4. User should have created account using our app and registered with us having credit card or debit card info on file.
+5. User launch our app and connects to the stores WiFi which is unique/scanning a tag, our app identifies the store location along with its billing system.
+6. Now user gets a Physical cart from designated area (Unassigned carts or carts which have become free after use by other persons) and scans bar code of the cart using our app (Virtual cart is created) at the same time our app generates unique virtual cart id for reference if any of the items needs to unlocked or billed at the counter due to security constraints.
+7. Now when user wants to put any of the item in Physical Cart he/she will scan the barcode using our app, our app will connect to billing system of that particular store and show the price to the user, our app will show say Yes/No to continue or discard the purchase.
+8. If user select Yes, that item will be put in Virtual cart and user will put that in physical cart.
+9. Likewise user will continue with rest of the items of his interest and ready for final billing to checkout.
+10. User will have an option to cancel any of the items which are already in Physical cart by selecting Cancel item and rescanning the item which needs to be removed.
+11. Items having exception are unlocked at the billing counter and same appears in our app with the price.
+12. Once all shopping is done user will click on Finish and will be asked to pay the amount using his/her credit/debit card which is already on file.
+13. Once user has completed his/her payment using our app by authorizing say sms/fingerprint scanner/password/3D secure code an intimation will be sent to exit door where there will be physical security persons to have random check of items which are purchased and billed correctly.
+14. Customer can request for printed bill white they exit by just simply scanning the barcode of the physical cart/virtual cart.
+15. Also barcode of Physical cart while exiting is important so as to confirm that the mobile app user which used the cart while going in is the same person while coming out and there is no interchange of the carts in between.
+16. Once the shopping experience is complete the cart is reset to next user and sent to designated area.
