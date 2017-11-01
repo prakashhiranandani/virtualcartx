@@ -24,8 +24,9 @@ Buyer facing interface:
 9. Likewise user will continue with rest of the items of his interest and ready for final billing to checkout.
 10. User will have an option to cancel any of the items which are already in Physical cart by selecting Cancel item and rescanning the item which needs to be removed.
 11. Items having exception are unlocked at the billing counter and same appears in our app with the price.
-12. Once all shopping is done user will click on Finish and will be asked to pay the amount using his/her credit/debit card which is already on file.
-13. Once user has completed his/her payment using our app by authorizing say sms/fingerprint scanner/password/3D secure code an intimation will be sent to exit door where there will be physical security persons to have random check of items which are purchased and billed correctly.
-14. Customer can request for printed bill white they exit by just simply scanning the barcode of the physical cart/virtual cart.
-15. Also barcode of Physical cart while exiting is important so as to confirm that the mobile app user which used the cart while going in is the same person while coming out and there is no interchange of the carts in between.
-16. Once the shopping experience is complete the cart is reset to next user and sent to designated area.
+12. User will check out from the store.
+13. Once all shopping is done user will click on Finish and will be asked to pay the amount using his/her credit/debit card which is already on file.
+14. Once user has completed his/her payment using our app by authorizing say sms/fingerprint scanner/password/3D secure code an intimation will be sent to exit door where there will be physical security persons to have random check of items which are purchased and billed correctly.
+15. Customer can request for printed bill white they exit by just simply scanning the barcode of the physical cart/virtual cart.
+16. Also barcode of Physical cart while exiting is important so as to confirm that the mobile app user which used the cart while going in is the same person while coming out and there is no interchange of the carts in between.
+17. Once the shopping experience is complete the cart is reset to next user and sent to designated area.
